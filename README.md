@@ -1,4 +1,7 @@
+<body>
+<div align="center">
 <img src="./assets/hello.svg" width="600px"></img>
+</div>
 <br>
 <div align="center">
 <img src="./assets/2.gif">
@@ -14,7 +17,7 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Hobby:</b> Linux Enthusiast🐧, Tech stuff, animation, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), anime, games
+<b>Hobby:</b> Linux Enthusiast🐧, Tech stuff, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), anime, games
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
@@ -27,13 +30,11 @@
 </div>
 <div>
 
-<p align="left"><img src="./assets/css.svg"/> <img src="./assets/html.svg"/> <img src="./assets/javascript.svg"/> <img src="./assets/React.svg"/> <img src="./assets/jQuery.svg"/> <img src ="./assets/React_Router.svg"/><br><br>
- <img src="./assets/Node.svg"/> <img src="./assets/Express.svg"/> <img src = "./assets/MySQL.svg"/> <img src ="./assets/MongoDB.svg"/><br><br>
-<img src ="./assets/Heroku.svg"/> <img src="./assets/OnRender.svg"/> <img src="./assets/Vercel.svg"/><br>
-
+[![Skills](https://skillicons.dev/icons?i=linux,vim,c,rust,go,ts,flutter,tauri)](https://github.com/usmandevstuff)<br><br>
+[![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,remix,tailwind,)](https://github.com/usmandevstuff)
+<br><br>
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql,github)](https://github.com/usmandevstuff)
 <br>
-<p align="left">I'm mostly work with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> at the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> at the <b>Back-end</b> and deploy around <b><i>Heroku, Vercel, OnRender</i></b></p>
-</p>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
 <p align="center">
@@ -41,7 +42,7 @@
 <br>
 <br>
 <br>
-I used take part as a <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
+I am a <strong>hobbyist developer</strong> with experience in <i><ins>C, Rust, Go, TypeScript</ins></i> and in frontend framworks like <i><ins>Svelte, Nextjs, Nuxtjs,Remix.</ins></i> In backend, I have worked with <i><ins>Nodejs, Expressjs, Prisma, MongoDB, Postgresql.</ins></i></p>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
 <img src="./assets/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
