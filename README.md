@@ -33,7 +33,7 @@
 [![Skills](https://skillicons.dev/icons?i=linux,vim,c,rust,go)](https://github.com/usmandevstuff)<br>
 [![Skills](https://skillicons.dev/icons?i=ts,flutter,tauri)](https://github.com/usmandevstuff)<br><br>
 [![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,remix,tailwind,)](https://github.com/usmandevstuff)<br><br>
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql,github)](https://github.com/usmandevstuff)<br>
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql)](https://github.com/usmandevstuff)<br>
 [![Skills](https://skillicons.dev/icons?i=github)](https://github.com/usmandevstuff)
 <br>
 <br>
