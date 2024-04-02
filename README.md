@@ -45,7 +45,7 @@
 <br>
 I am a <strong>hobbyist developer</strong> with experience in <i><ins>C, Rust, Go, TypeScript</ins></i> and in frontend framworks like <i><ins>Svelte, Nextjs, Nuxtjs,Remix.</ins></i> In backend, I have worked with <i><ins>Nodejs, Expressjs, Prisma, MongoDB, Postgresql.</ins></i></p>
 <br>
-<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
+<h2 align="center">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
 <img src="./assets/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
 <br>
 <p align="center">Here are some of my  <br>
@@ -66,7 +66,6 @@ most used social info ヽ(o＾▽＾o)ノ</p>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" width = "49%" />
 </div>
-<br>
 <br>
 <br>
 <div>
