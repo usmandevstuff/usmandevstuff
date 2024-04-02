@@ -68,7 +68,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <div>
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
-<img src="./assets/the-end.gif" width = "100%">
+<img src="./assets/bleach.gif" width="80%">
 </div>
 <hr>
 </div>
