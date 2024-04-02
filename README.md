@@ -56,14 +56,12 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <div>
 <br>
 <img align="center" src = "./assets/hxh.gif" width = "100%" height="350px">
-<div>
+<div align="center">
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
-    <img src ="./assets/line2.gif" align ="right">
     <br>
+
+![UsmanDevStuff](https://count.getloli.com/get/@usmandevstuff?theme=rule34)<br>
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=usmandevstuff&count_private=true&theme=neon&show_icons=true\&rank_icon=github&hide_border=false"/>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
     <br>
