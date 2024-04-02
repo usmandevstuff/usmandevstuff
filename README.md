@@ -67,7 +67,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
     <br>
     <br>
     <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&layout=compact&langs_count=8&border_radius=20px&theme=neon" width ="50%" height ="200px" align ="left"/>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&langs_count=8&theme=neon" width ="49%"/>
 </div>
 <br>
 <br>
