@@ -52,7 +52,9 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <div>
 <br>
-<img align="center" src = "./assets/hxh.gif" width = "100%" height="350px">
+<div align="center">
+<img align="center" src = "./assets/one_piece.gif" width="100%">
+</div>
 <div align="center">
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <br>
