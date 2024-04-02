@@ -60,14 +60,14 @@ most used social info ヽ(o＾▽＾o)ノ</p>
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./assets/line2.gif" align ="right">
     <br>
-    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=usmandevstuff&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=usmandevstuff&count_private=true&theme=neon&show_icons=true\&rank_icon=github&hide_border=false"/>
     <br>
     <br>
     <br>
     <br>
     <br>
     <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&layout=compact&langs_count=8&border_radius=20px&theme=neon" width ="50%" height ="200px" align ="left"/>
 </div>
 <br>
 <br>
