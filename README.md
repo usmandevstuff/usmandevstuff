@@ -67,7 +67,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
     <br>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" width = "49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" width = "49%" />
 </div>
 <br>
 <br>
