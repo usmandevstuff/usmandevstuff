@@ -1,9 +1,6 @@
 <body>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
-<div align="center">
-<img src="./assets/2.gif">
-</div>
 <img src="./assets/line1.gif" height ="80px" width ="100%">
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
