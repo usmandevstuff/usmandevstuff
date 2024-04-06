@@ -1,10 +1,14 @@
 <body>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
-<img src="./assets/line1.gif" height ="80px" width ="100%">
+
+<div align="center">
+<img src="./assets/pixel-art.gif">
+</div>
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="./assets/about-me.gif?raw=true" height = "220px" align="right">
+<img src="./assets/darksouls.gif?raw=true" height = "220px" align="right">
+<br>
 <li>
 <b>Name:</b> Muhammad Usman</li>
 <li>
@@ -18,7 +22,7 @@
                                  💯❤️‍🔥</b></p>
 </div>
 <div>
-<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
+<h2 align="center">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
 <p>
 <img src="./assets/knowledge.gif?raw=true" width="420px" align="right">
 </div>
