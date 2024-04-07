@@ -73,8 +73,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <div align="center">
 <img src="./assets/bleach.gif" width="80%">
 </div>
-<hr>
 </div>
-
+<img src="https://user-images.githubusercontent.com/123886904/218294072-d474a330-7464-430a-b369-91f79373dbca.svg" width="100%" title="Footer">
 </div>
 </body>
