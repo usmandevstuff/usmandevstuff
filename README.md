@@ -7,7 +7,7 @@
 </div>
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="./assets/darksouls.gif?raw=true" height = "220px" align="right">
+<img src="./assets/darksouls.gif?raw=true" height = "180px" align="right">
 <br>
 <li>
 <b>Name:</b> Muhammad Usman</li>
