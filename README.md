@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="./assets/pixel-art.gif">
+<!-- <img src="./assets/pixel-art.gif"> -->
 </div>
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
@@ -35,6 +35,7 @@
 [![Skills](https://skillicons.dev/icons?i=github)](https://github.com/usmandevstuff)
 <br>
 <br>
+
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
 <p align="center">
 <img align="center" src="./assets/work_ex.gif"/>
@@ -54,24 +55,25 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <div>
 <br>
 <div align="center">
-<img align="center" src = "./assets/one_piece.gif" width="100%">
+<!-- <img align="center" src = "./assets/one_piece.gif" width="100%"> -->
 </div>
 <div align="center">
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <br>
 
 ![UsmanDevStuff](https://count.getloli.com/get/@usmandevstuff?theme=rule34)<br>
-    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=usmandevstuff&count_private=true&theme=neon&show_icons=true\&rank_icon=github&hide_border=false"/>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" width = "49%" />
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=usmandevstuff&count_private=true&theme=neon&show_icons=true\&rank_icon=github&hide_border=false"/>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" width = "49%" />
+
 </div>
 <br>
 <br>
 <div>
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
-<img src="./assets/bleach.gif" width="80%">
+<!-- <img src="./assets/bleach.gif" width="80%"> -->
 </div>
 </div>
 <img src="https://user-images.githubusercontent.com/123886904/218294072-d474a330-7464-430a-b369-91f79373dbca.svg" width="100%" title="Footer">
