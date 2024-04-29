@@ -4,7 +4,7 @@
 
 <div align="center">
 <img src="./assets/usmandevstuff.png" width="75%" title="usmandevstuff">
-<img src="./assets/seperator.png" width="100%" title="sep">
+<img src="./assets/seperator.png" width="75%" title="sep">
 </div>
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
