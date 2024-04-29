@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="./assets/usmandevstuff.png" width="100%" title="usmandevstuff">
+<img src="./assets/usmandevstuff.png" width="75%" title="usmandevstuff">
 <img src="./assets/seperator.png" width="100%" title="sep">
 </div>
 <div>
