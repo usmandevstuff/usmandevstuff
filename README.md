@@ -22,19 +22,20 @@
 <p><b>     Thanks for reading about my personal stuff<br>
                                  </b></p>
 </div>
-<div>
 <h2 align="center">             𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 </h2>
-<p>
-<img src="./assets/knowledge.gif?raw=true" width="420px" align="right">
-</div>
-<div>
+<div align="center">
+<img src="./assets/knowledge.gif?raw=true" width="420px">
 
-[![Skills](https://skillicons.dev/icons?i=vim,c,rust,go)](https://github.com/usmandevstuff)<br>
-[![Skills](https://skillicons.dev/icons?i=linux,nix,arch,debian)]<br>
-[![Skills](https://skillicons.dev/icons?i=ts,flutter,tauri)](https://github.com/usmandevstuff)<br>
-[![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,tailwind,)](https://github.com/usmandevstuff)<br>
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql)](https://github.com/usmandevstuff)<br>
-[![Skills](https://skillicons.dev/icons?i=github)](https://github.com/usmandevstuff)
+![Skills](https://skillicons.dev/icons?i=c,rust,go,ts)<br>
+![Skills](https://skillicons.dev/icons?i=vim,emacs,vscode)<br>
+![Skills](https://skillicons.dev/icons?i=nix,arch,debian)<br>
+![Skills](https://skillicons.dev/icons?i=flutter,tauri)<br>
+![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,tailwind)<br>
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql)<br>
+![Skills](https://skillicons.dev/icons?i=github,git)
+</div>
+
+<div>
 <br>
 <br>
 
