@@ -27,6 +27,7 @@
 <img src="./assets/knowledge.gif?raw=true" width="420px">
 
 <br>
+<br>
 
 ![Skills](https://skillicons.dev/icons?i=c,rust,go,ts)<br>
 ![Skills](https://skillicons.dev/icons?i=vim,emacs,vscode)<br>
@@ -42,7 +43,6 @@
 <h2 align="center"> 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 </h2>
 <p align="center">
 <img align="center" src="./assets/work_ex.gif"/>
-<br>
 <br>
 <br>
 I am a <strong>hobbyist developer</strong> with experience in <i><ins>C, Rust, Go, TypeScript</ins></i> and in frontend framworks like <i><ins>Svelte, Nextjs, Nuxtjs,Remix.</ins></i> In backend, I have worked with <i><ins>Nodejs, Expressjs, Prisma, MongoDB, Postgresql.</ins></i></p>
@@ -71,8 +71,6 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevstuff&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" width = "49%" />
 
 </div>
-<br>
-<br>
 <div>
 <img src="https://user-images.githubusercontent.com/123886904/218294072-d474a330-7464-430a-b369-91f79373dbca.svg" width="100%" title="Footer">
 <h2 align="center"> 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! </h2>
