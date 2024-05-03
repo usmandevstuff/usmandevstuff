@@ -7,7 +7,7 @@
 <img src="./assets/seperator.png" width="75%" title="sep">
 </div>
 <div>
-<h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
+<h2 align="center">  𝘼𝙗𝙤𝙪𝙩 𝙢𝙚  </h2>
 <img src="./assets/darksouls.gif?raw=true" height = "180px" align="right">
 <br>
 <li>
@@ -16,28 +16,29 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Hobby:</b> Linux Enthusiast🐧, Tech stuff, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), anime, games
+<b>Hobby:</b> Linux Enthusiast🐧, Tech stuff, web development, anime, games
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
-                                 💯❤️‍🔥</b></p>
+                                 </b></p>
 </div>
 <div>
-<h2 align="center">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
+<h2 align="center">             𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 </h2>
 <p>
 <img src="./assets/knowledge.gif?raw=true" width="420px" align="right">
 </div>
 <div>
 
-[![Skills](https://skillicons.dev/icons?i=linux,vim,c,rust,go)](https://github.com/usmandevstuff)<br>
-[![Skills](https://skillicons.dev/icons?i=ts,flutter,tauri)](https://github.com/usmandevstuff)<br><br>
-[![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,remix,tailwind,)](https://github.com/usmandevstuff)<br><br>
+[![Skills](https://skillicons.dev/icons?i=vim,c,rust,go)](https://github.com/usmandevstuff)<br>
+[![Skills](https://skillicons.dev/icons?i=linux,nix,arch,debian)]<br>
+[![Skills](https://skillicons.dev/icons?i=ts,flutter,tauri)](https://github.com/usmandevstuff)<br>
+[![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,tailwind,)](https://github.com/usmandevstuff)<br>
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql)](https://github.com/usmandevstuff)<br>
 [![Skills](https://skillicons.dev/icons?i=github)](https://github.com/usmandevstuff)
 <br>
 <br>
 
-<h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
+<h2 align="center"> 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 </h2>
 <p align="center">
 <img align="center" src="./assets/work_ex.gif"/>
 <br>
@@ -45,7 +46,7 @@
 <br>
 I am a <strong>hobbyist developer</strong> with experience in <i><ins>C, Rust, Go, TypeScript</ins></i> and in frontend framworks like <i><ins>Svelte, Nextjs, Nuxtjs,Remix.</ins></i> In backend, I have worked with <i><ins>Nodejs, Expressjs, Prisma, MongoDB, Postgresql.</ins></i></p>
 <br>
-<h2 align="center">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
+<h2 align="center"> 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚             </h2>
 <img src="./assets/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
 <br>
 <p align="center">Here are some of my  <br>
@@ -59,7 +60,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <!-- <img align="center" src = "./assets/one_piece.gif" width="100%"> -->
 </div>
 <div align="center">
-    <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
+    <h2 align ="center"> Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! </h2>
     <br>
 
 ![UsmanDevStuff](https://count.getloli.com/get/@usmandevstuff?theme=rule34)<br>
@@ -72,11 +73,11 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 <div>
-<h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
+<img src="https://user-images.githubusercontent.com/123886904/218294072-d474a330-7464-430a-b369-91f79373dbca.svg" width="100%" title="Footer">
+<h2 align="center"> 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! </h2>
 <div align="center">
 <!-- <img src="./assets/bleach.gif" width="80%"> -->
 </div>
 </div>
-<img src="https://user-images.githubusercontent.com/123886904/218294072-d474a330-7464-430a-b369-91f79373dbca.svg" width="100%" title="Footer">
 </div>
 </body>
