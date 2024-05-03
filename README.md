@@ -26,6 +26,8 @@
 <div align="center">
 <img src="./assets/knowledge.gif?raw=true" width="420px">
 
+<br>
+
 ![Skills](https://skillicons.dev/icons?i=c,rust,go,ts)<br>
 ![Skills](https://skillicons.dev/icons?i=vim,emacs,vscode)<br>
 ![Skills](https://skillicons.dev/icons?i=nix,arch,debian)<br>
