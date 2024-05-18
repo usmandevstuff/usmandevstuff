@@ -30,7 +30,6 @@
 <br>
 
 ![Skills](https://skillicons.dev/icons?i=c,rust,go,ts)<br>
-![Skills](https://skillicons.dev/icons?i=nix,arch,debian,vim,emacs,vscode)<br>
 ![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,tailwind,flutter,tauri)<br>
 ![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql)<br>
 ![Skills](https://skillicons.dev/icons?i=github,git)
