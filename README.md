@@ -29,7 +29,7 @@
 <br>
 <br>
 
-![Skills](https://skillicons.dev/icons?i=c,rust,zig,go,ts)<br>
+![Skills](https://skillicons.dev/icons?i=c,rust,zig,ts)<br>
 ![Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,svelte,tailwind,flutter,tauri)<br>
 ![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql)<br>
 ![Skills](https://skillicons.dev/icons?i=github,git)
